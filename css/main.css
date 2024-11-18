@@ -1,0 +1,28 @@
+.item img{
+    height: 250px;
+    object-fit: cover;
+}
+
+.part{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: Impact;
+
+}
+
+.first{
+    line-height: 90px;
+}
+
+.btn{
+    width: 250px;
+    padding: 20px;
+    color: white;
+    border: 2px solid black;
+    box-shadow: 8px;
+}
+
+p{
+    font-size: 35px;
+    font-weight: 600;
+}
